@@ -143,4 +143,9 @@ class DatabaseSeeder extends Seeder
 
 ```
 
+Kemudian ketik kode ini pada terminal 
+```
+php artisan db:seed
+```
+Kemudian cek database anda 
 # **SELESAI**
