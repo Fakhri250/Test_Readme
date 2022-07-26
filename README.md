@@ -143,4 +143,4 @@ class DatabaseSeeder extends Seeder
 
 ```
 
-
+# **SELESAI**
