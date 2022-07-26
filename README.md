@@ -14,11 +14,10 @@ composer create-project laravel/laravel penjualan
 # Modul 2
 
 ### Soal
-##### 1. Buatlah migration tabel kategori dengan menggunakan teknik yang telah di pelajari dalam 
-modul ini.
+#### 1. Buatlah migration tabel kategori dengan menggunakan teknik yang telah di pelajari dalam modul ini.
 
 ### Langkah Pertama
-ketik kode dibawah pada terminal
+ketik kode seperti dibawah pada terminal
 ```
 php artisan make:migration create_kategori_table
 ```
